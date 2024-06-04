@@ -25,7 +25,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python app.py
+Proxlight Builder.py
 ```
 
 ## 🛠️ Adding Widgets
